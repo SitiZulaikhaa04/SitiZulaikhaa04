@@ -21,6 +21,7 @@
   <img src="https://skillicons.dev/icons?i=figma,blender" />
 </p>
 🧩 Other design tools: **Procreate**, **Canva**
+
 ### Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=git,github" />
